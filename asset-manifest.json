@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Aman10-02/tesla-clone/static/css/main.d67e391b.css",
-    "main.js": "/Aman10-02/tesla-clone/static/js/main.202deda3.js",
-    "index.html": "/Aman10-02/tesla-clone/index.html",
-    "main.d67e391b.css.map": "/Aman10-02/tesla-clone/static/css/main.d67e391b.css.map",
-    "main.202deda3.js.map": "/Aman10-02/tesla-clone/static/js/main.202deda3.js.map"
+    "main.css": "/static/css/main.d67e391b.css",
+    "main.js": "/static/js/main.783d711c.js",
+    "index.html": "/index.html",
+    "main.d67e391b.css.map": "/static/css/main.d67e391b.css.map",
+    "main.783d711c.js.map": "/static/js/main.783d711c.js.map"
   },
   "entrypoints": [
     "static/css/main.d67e391b.css",
-    "static/js/main.202deda3.js"
+    "static/js/main.783d711c.js"
   ]
 }
